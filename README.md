@@ -4,12 +4,18 @@ This is Team 4 repository for BYUI CSE 450 course Sprint 2023
 
 ## Module 2 | Banco Federal de Finanças - Targeted Marketing, Case Study
 
-In this module, you will be learning about decision trees and working on your Module 2 case study with your group.
+In this module, you will be learning about Decision Trees and working on Module 2 case study within group.
 
 - You can get started in the [starter_bank file](./module-2/starter_bank.ipynb)
 
 ## Module 3 | Reddic Housing LLC - Housing Estimates, Case Study
 
-In this module, you will be learning about decision trees and working on your Module 2 case study with your group.
+In this module, you will be learning about Gradient Boosted Regression Trees and working on Module 3 case study within group.
 
 - You can get started in the [Housing Estimates](./module-3/README.md)
+
+## Module 4 | WelcomeBike - Bike Rentals, Case Study
+
+In this module, you will be learning about Neural Networks and working on Module 4 case study within the group.
+
+- You can get started in the [Housing Estimates](./module-4/README.md)
