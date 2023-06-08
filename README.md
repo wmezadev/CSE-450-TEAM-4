@@ -6,7 +6,7 @@ This is Team 4 repository for BYUI CSE 450 course Sprint 2023
 
 In this module, you will be learning about Decision Trees and working on Module 2 case study within group.
 
-- You can get started in the [starter_bank file](./module-2/starter_bank.ipynb)
+- You can get started in the [Targeted Marketing](./module-2/starter_bank.ipynb)
 
 ## Module 3 | Reddic Housing LLC - Housing Estimates, Case Study
 
@@ -18,4 +18,4 @@ In this module, you will be learning about Gradient Boosted Regression Trees and
 
 In this module, you will be learning about Neural Networks and working on Module 4 case study within the group.
 
-- You can get started in the [Housing Estimates](./module-4/README.md)
+- You can get started in the [Bike Rentals](./module-4/README.md)
