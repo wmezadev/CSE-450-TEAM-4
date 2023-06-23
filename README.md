@@ -19,3 +19,9 @@ In this module, you will be learning about Gradient Boosted Regression Trees and
 In this module, you will be learning about Neural Networks and working on Module 4 case study within the group.
 
 - You can get started in the [Bike Rentals](./module-4/README.md)
+
+## Module 5 | GehirnWagen - Self Driving Cars, Case Study
+
+In this module, you will be learning about Convolutional Neural Networks and working on Module 5 case study within the group.
+
+- You can get started in the [Self Driving Cars](./module-4/README.md)
