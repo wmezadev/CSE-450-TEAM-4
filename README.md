@@ -24,4 +24,4 @@ In this module, you will be learning about Neural Networks and working on Module
 
 In this module, you will be learning about Convolutional Neural Networks and working on Module 5 case study within the group.
 
-- You can get started in the [Self Driving Cars](./module-4/README.md)
+- You can get started in the [Self Driving Cars](./module-5/README.md)
